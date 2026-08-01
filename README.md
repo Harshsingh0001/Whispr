@@ -108,7 +108,7 @@ whispr
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/whispr.git
+git clone https://github.com/Harshsingh0001/Whispr.git
 cd whispr
 ```
 
